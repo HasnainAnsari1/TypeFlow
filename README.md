@@ -1,8 +1,8 @@
-# 🚀 KanbanPulse — Type-Safe Task Management Board
+#  TypeFlow — Type-Safe Task Management Board
 
 **TypeFlow** is a responsive, modern Kanban-style task management application built with **React**, **TypeScript**, and **Tailwind CSS**. It provides a sleek user interface to organize tasks into columns, manage priorities, and automatically persist state locally using custom React hooks.
 
-**Live Demo:** [https://kanban-pulse.vercel.app]
+**Live Demo:** [https://type-flow-app.vercel.app/]
 ---
 
 ##  Features
